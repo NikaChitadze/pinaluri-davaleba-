@@ -73,9 +73,9 @@ header {
     outline: 2px;
     transition: 0.3s;
 }
-.cnt-cont:hover{
- color: purple;
- background-color: purple;
+.cnt-cont:hover {
+    color: purple;
+    background-color: purple;
 }
 .cnt {
     position: absolute;
@@ -211,8 +211,8 @@ section {
     color: #b28af8;
     transform: 1s;
 }
-.our:hover{
-    color:black;
+.our:hover {
+    color: black;
 }
 .group5 {
     position: absolute;
@@ -278,7 +278,6 @@ footer {
     position: absolute;
     width: 667px;
     height: 473px;
-    border: 2px solid red;
     margin-left: 627px;
     margin-bottom: -20px;
 }
@@ -377,4 +376,179 @@ input {
 }
 .sub:hover {
     background-color: purple;
+}
+.group478 {
+    position: absolute;
+    width: 1529px;
+    height: 207px;
+    margin-top: 673px;
+    margin-left: 140px;
+}
+.geologo {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+
+    margin-bottom: 157px;
+    margin-left: -30px;
+}
+.proin {
+    position: absolute;
+    margin-top: 30px;
+    width: 400px;
+    height: 137px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.footcomp {
+    position: absolute;
+    width: 240px;
+    height: 137px;
+    margin-left: 560px;
+    margin-top: 30px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 36px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.comp {
+    position: absolute;
+    width: 114px;
+    height: 29px;
+    margin-top: -50px;
+
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.footcomp2 {
+    position: absolute;
+    width: 240px;
+    height: 137px;
+    margin-left: 840px;
+    margin-top: 30px;
+
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 36px;
+    font-style: normal;
+    text-align: left;
+
+    color: #ffffff;
+}
+.footconta {
+    position: absolute;
+    width: 395px;
+    height: 96px;
+    margin-left: 1134px;
+    margin-top: 30px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 36px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.conta {
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    margin-top: -50px;
+
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.Line {
+    position: absolute;
+    width: 1640px;
+    height: 0px;
+    margin-top: 940px;
+    margin-left: 141px;
+
+    border-color: #dcc7ff;
+    border-width: 1px;
+    border-style: solid;
+}
+.icons {
+    display: flex;
+
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 140px;
+    width: 205px;
+    height: 40px;
+}
+.fb {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #c4a3fd;
+}
+.twit {
+    margin-left: 55px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #c4a3fd;
+}
+.insta {
+    margin-left: 110px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #c4a3fd;
+}
+.youtube {
+    margin-left: 165px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #c4a3fd;
+}
+.footend {
+    position: absolute;
+    width: 237px;
+    height: 20px;
+    margin-top: 971px;
+    margin-left: 1553px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
 }
