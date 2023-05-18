@@ -360,6 +360,7 @@ input {
 
     background: #ffffff;
 }
+
 .subs {
     position: absolute;
     width: 91px;
@@ -376,6 +377,9 @@ input {
 }
 .sub:hover {
     background-color: purple;
+}
+.subs:hover{
+    color: white;
 }
 .group478 {
     position: absolute;
