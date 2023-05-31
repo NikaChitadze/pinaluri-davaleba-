@@ -965,3 +965,183 @@ input {
 /* END ABOUT US */
 /* END ABOUT US */
 /* END ABOUT US */
+
+/* START SERVICE */
+/* START SERVICE */
+/* START SERVICE */
+
+.service {
+    background-color: #956ae1;
+   max-width: 100%;
+}
+.serviscont {
+    position: absolute;
+    width: 1640px;
+    height: 690px;
+}
+.serviceshrift {
+    margin-left: 440px;
+    position: absolute;
+    width: 815px;
+    height: 91px;
+}
+.wea {
+    position: absolute;
+    width: 241px;
+    height: 25px;
+    margin-left: 288px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 30px;
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.exp {
+    position: absolute;
+    width: 815px;
+    height: 57px;
+    margin-top: 34px;
+    font-family: "Poppins";
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.service1 {
+    margin-top: 150px;
+    position: absolute;
+    width: 800px;
+    height: 250px;
+
+    border-radius: 30px;
+
+    background: #b28af8;
+}
+.service2 {
+    margin-top: 150px;
+    margin-left: 840px;
+    position: absolute;
+    width: 800px;
+    height: 250px;
+
+    border-radius: 30px;
+
+    background: #b28af8;
+}
+.service3 {
+    margin-top: 440px;
+    position: absolute;
+    width: 800px;
+    height: 250px;
+
+    border-radius: 30px;
+
+    background: #b28af8;
+}
+.service4 {
+    margin-top: 440px;
+    margin-left: 840px;
+    position: absolute;
+    width: 800px;
+    height: 250px;
+
+    border-radius: 30px;
+
+    background: #b28af8;
+}
+.group30 {
+    margin-left: 190px;
+    margin-top: 81px;
+    position: absolute;
+    width: 514px;
+    height: 89px;
+}
+.linkb {
+    position: absolute;
+    width: 147px;
+    height: 29px;
+
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.well {
+    margin-top: 38px;
+    position: absolute;
+    width: 514px;
+    height: 51px;
+
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.group54 {
+    margin-left: 54px;
+    margin-top: 79px;
+}
+.plius {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin-left: 720px;
+
+    border-top-left-radius: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 0px;
+
+    background: #956ae1;
+}
+.upplius {
+    margin-top: 27px;
+    margin-left: 38px;
+    position: absolute;
+    width: 5px;
+    height: 26px;
+
+    border-radius: 5px;
+
+    background: #ffffff;
+}
+.sideplius {
+    margin-top: 38px;
+    margin-left: 27px;
+    position: absolute;
+    width: 26px;
+    height: 5px;
+
+    border-radius: 5px;
+
+    background: #ffffff;
+}
+.linkweb {
+    position: absolute;
+    width: 312px;
+    height: 29px;
+
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+
+    color: #ffffff;
+}
+.shapeserv {
+    margin-top: 670px;
+    margin-left: 1700px;
+}
+.footservice{
+width: 2200px;
+
+}
