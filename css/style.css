@@ -972,7 +972,7 @@ input {
 
 .service {
     background-color: #956ae1;
-   max-width: 100%;
+    max-width: 100%;
 }
 .serviscont {
     position: absolute;
@@ -1141,7 +1141,224 @@ input {
     margin-top: 670px;
     margin-left: 1700px;
 }
-.footservice{
-width: 2200px;
-
+.footservice {
+    width: 100%;
 }
+/* END SERVICE */
+/* END SERVICE */
+/* END SERVICE */
+
+/* START PORTFOLIO */
+/* START PORTFOLIO */
+/* START PORTFOLIO */
+.shapeport {
+    margin-top: -750px;
+    margin-left: -1800px;
+}
+.group21 {
+    border: 2px solid red;
+}
+.aweport {
+    position: absolute;
+    width: 193px;
+    height: 25px;
+    margin-left: 292px;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 30px;
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.greatport {
+    position: absolute;
+    width: 777px;
+    height: 57px;
+    margin-top: 34px;
+    font-family: "Poppins";
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    color: #ffffff;
+}
+.group458 {
+    display: flex;
+
+    margin-top: 120px;
+    position: absolute;
+    width: 1640px;
+    height: 381px;
+    border: 2px solid black;
+}
+.projectport1 {
+    display: flex;
+    background-color: #b28af8;
+    border-radius: 30px;
+    border: 2px solid red;
+    position: absolute;
+    width: 380px;
+    height: 381px;
+}
+.rectangl12 {
+    position: absolute;
+    width: 380px;
+    height: 242px;
+    border-color: #000000;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 30px;
+
+    background: #e2fef0;
+}
+.group94 {
+    margin-top: 41px;
+    margin-left: 49px;
+}
+.group57 {
+    margin-top: 282px;
+    margin-left: 86px;
+    position: absolute;
+    width: 220px;
+    height: 60px;
+    border: 2px solid blue;
+}
+.webport {
+    position: absolute;
+    width: 220px;
+    height: 29px;
+
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+
+    color: #ffffff;
+}
+.ux {
+    margin-top: 30px;
+    margin-left: 54px;
+    position: absolute;
+    width: 106px;
+    height: 20px;
+
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.projectport2 {
+    background-color: #b28af8;
+    margin-left: 420px;
+    border-radius: 30px;
+    border: 2px solid red;
+    position: absolute;
+    width: 380px;
+    height: 381px;
+}
+.group455 {
+    position: absolute;
+    width: 380px;
+    height: 242px;
+
+    border-color: #000000;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 30px;
+
+    background: #aacbfc;
+}
+.projectport3 {
+    background-color: #b28af8;
+    margin-left: 840px;
+    border-radius: 30px;
+    border: 2px solid red;
+    position: absolute;
+    width: 380px;
+    height: 381px;
+}
+.projectport4 {
+    background-color: #b28af8;
+    margin-left: 1260px;
+    border-radius: 30px;
+    border: 2px solid red;
+    position: absolute;
+    width: 380px;
+    height: 381px;
+}
+.grpup455 {
+    position: absolute;
+    width: 380px;
+    height: 242px;
+
+    border-radius: 30px;
+
+    background-color: #aacbfcab;
+}
+.group456 {
+    position: absolute;
+    width: 380px;
+    height: 242px;
+
+    border-radius: 30px;
+
+    background: #ffc7e1;
+}
+.group457 {
+    position: absolute;
+    width: 380px;
+    height: 242px;
+
+    border-color: #000000;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 30px;
+
+    background: #fcffce;
+}
+.group450 {
+    margin-left: 770px;
+    margin-top: 560px;
+    position: absolute;
+    width: 120px;
+    height: 50px;
+}
+.group451 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #c4a3fd;
+}
+.arrowright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 10px;
+    height: 16px;
+}
+
+.group452 {
+    margin-left: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #c4a3fd;
+}
+/* END PORTFOLIO */
+/* END PORTFOLIO */
+/* END PORTFOLIO */
