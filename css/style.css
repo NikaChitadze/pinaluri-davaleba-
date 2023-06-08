@@ -269,13 +269,13 @@ section {
 
 footer {
     position: absolute;
-width: 100%;
+    width: 100%;
     height: 1040px;
     display: flex;
     border-color: #000000;
     border-width: 1px;
     margin: 0 auto;
-   
+
     margin-top: 1110px;
     background: #b28af8;
 }
@@ -981,9 +981,15 @@ input {
 /* START SERVICE */
 /* START SERVICE */
 
+.serviceh {
+    background-color: #956ae1;
+    height: 100%;
+    width: 100%;
+}
 .service {
     background-color: #956ae1;
-    max-width: 100%;
+    height: 100%;
+    width: 100%;
 }
 .serviscont {
     position: absolute;
@@ -1153,6 +1159,8 @@ input {
     margin-left: 1700px;
 }
 .footservice {
+    margin-top: 1020px;
+    height: 100%;
     width: 100%;
 }
 /* END SERVICE */
@@ -1495,4 +1503,7 @@ input {
 .fa-bars {
     font-size: 36px;
     display: none;
+}
+.aboutucont {
+    margin-top: 10px;
 }
