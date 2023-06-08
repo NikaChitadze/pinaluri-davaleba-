@@ -2,8 +2,15 @@ header {
     display: flex;
     justify-content: start;
     position: absolute;
-    height: 100%;
+    height: 100px;
     width: 100%;
+
+    background-color: #b28af8;
+}
+.indexmain {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 100px;
     background-color: #b28af8;
 }
 .navbar {
@@ -62,7 +69,7 @@ header {
     width: 174px;
     height: 60px;
     display: flex;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-left: 1606px;
     justify-content: space-between;
     border-color: #ffffff;
@@ -257,16 +264,19 @@ section {
 }
 
 /* start footer */
+/* start footer */
+/* start footer */
 
 footer {
     position: absolute;
-    width: 100%;
+width: 100%;
     height: 1040px;
     display: flex;
     border-color: #000000;
     border-width: 1px;
-    margin-top: 1025px;
-
+    margin: 0 auto;
+   
+    margin-top: 1110px;
     background: #b28af8;
 }
 .footas {
@@ -1481,4 +1491,8 @@ input {
     border-top-left-radius: 30px;
     border-bottom-right-radius: 30px;
     background: #956ae1;
+}
+.fa-bars {
+    font-size: 36px;
+    display: none;
 }

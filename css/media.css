@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1200px) {
+    .navbar {
+        width: 90%;
+    }
+}
+@media (max-width: 800px) {
+    .container-2 {
+        display: none;
+    }
+    .fa-bars {
+        margin-left: 300px;
+        display: block;
+        cursor: pointer;
+    }
+    .indexmain {
+        width: 90%;
+    }
+}
