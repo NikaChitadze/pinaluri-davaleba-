@@ -128,7 +128,7 @@ section {
     position: absolute;
     width: 549px;
     height: 465px;
-
+    border: 2px solid red;
     margin-top: 129px;
 }
 .group10 {
@@ -242,25 +242,41 @@ section {
 .eclipse4 {
     background-image: url("Ellipse 3.png"), url("Ellipse 4.png");
 }
-.asset1 {
+.asso1 {
     position: absolute;
     width: 1087px;
     height: 783px;
 
-    border-color: #000000;
-    border-width: 1px;
+    border: 2px solid red;
     margin-left: 850px;
 }
-
-.asset4 {
+.asseto {
+    max-width: 100%;
+    max-height: 100%;
+}
+.asse4 {
     position: absolute;
+    width: 91px;
     margin-left: -150px;
     margin-top: 160px;
+    height: 92px;
 }
-.miniasset {
+.asset4 {
+    max-width: 100%;
+    max-height: 100%;
+}
+.miniasst {
     position: absolute;
-    margin-left: -600px;
+    margin-left: 600px;
     margin-top: 600px;
+    position: absolute;
+    width: 91px;
+    height: 92px;
+}
+
+.miniasset {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 /* start footer */
@@ -291,6 +307,8 @@ footer {
     margin-bottom: -20px;
 }
 .footase2 {
+    max-width: 100%;
+    max-height: 100%;
     margin-left: 247px;
 }
 .group465 {
@@ -966,7 +984,8 @@ input {
     color: #ffffff;
 }
 .foot {
-    height: 3000px;
+    
+    
     display: flex;
     flex-direction: row;
 }
