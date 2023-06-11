@@ -876,3 +876,61 @@
         height: 315px;
     }
 }
+/* END SERVICE */
+/* END SERVICE */
+/* END SERVICE */
+
+/* START BLOG */
+/* START BLOG */
+/* START BLOG */
+@media only screen and (max-width: 1600px) {
+    .group462 {
+        width: 1260px;
+    }
+    .group450 {
+        margin-left: 550px;
+    }
+    .post4 {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .group400 {
+        margin-left: 450px;
+    }
+    .group462 {
+        width: 840px;
+        margin-left: 250px;
+    }
+    .post3 {
+        display: none;
+    }
+    .group450 {
+        margin-left: 350px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .group400 {
+        margin-left: 200px;
+    }
+    .group462 {
+        width: 840px;
+        margin-left: 2px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .group400 {
+        margin-left: 200px;
+    }
+    .post2{
+        display: none;
+    }
+    .group462 {
+        width:380px;
+        margin-left: 200px;
+
+    }
+    .group450 {
+        margin-left: 150px;
+    }
+}

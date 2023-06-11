@@ -1396,6 +1396,15 @@ input {
 /* START BLOG */
 /* START BLOG */
 /* START BLOG */
+
+.blog {
+    margin-left: 0;
+    position: absolute;
+    width: 100%;
+    height: 850px;
+    background-color: #956ae1;
+}
+
 .group400 {
     margin-left: 627px;
     position: absolute;
