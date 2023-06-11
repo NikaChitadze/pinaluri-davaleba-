@@ -238,8 +238,232 @@
         width: 100%;
     }
     .asseto {
+        margin-left: 20px;
         position: absolute;
-        width: 335px;
-        height: 241px;
+        width: 400px;
+        height: 300px;
+    }
+    .group5 {
+        position: absolute;
+        width: 60px;
+        height: 60px;
+        margin-left: 158px;
+        margin-top: -70px;
+        border-radius: 40px;
+
+        background: #c4a3fd;
+    }
+    .indfoot {
+        height: 1596px;
+        background-color: #b28af8;
+    }
+    .group10 {
+        position: absolute;
+        width: 313px;
+        height: 153px;
+        margin-left: 32px;
+    }
+    .solve {
+        position: absolute;
+        width: 313px;
+        height: 64px;
+        margin-top: 40px;
+        font-family: "Poppins";
+        font-size: 45px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+
+        color: #ffffff;
+    }
+    .prob {
+        margin-left: 66px;
+        margin-top: 104px;
+        position: absolute;
+        width: 182px;
+        height: 49px;
+        font-family: "Poppins";
+        font-size: 34px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+
+        color: #ffffff;
+    }
+    .we {
+        margin-left: 66px;
+        position: absolute;
+        width: 166px;
+        height: 40px;
+
+        font-family: "Poppins";
+        font-size: 28px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .minitext {
+        position: absolute;
+        width: 337px;
+        height: 82px;
+        margin-top: -80px;
+        margin-left: 20px;
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 30px;
+        font-style: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .group1 {
+        display: flex;
+        position: absolute;
+        width: 236px;
+        height: 60px;
+        margin-left: 70px;
+        border-radius: 40px;
+        margin-top: 250px;
+        background: #ffffff;
+    }
+    .our {
+        position: absolute;
+        width: 122px;
+        height: 24px;
+        margin-left: 57px;
+        font-family: "Poppins";
+        font-size: 16px;
+        font-weight: 500;
+        font-style: normal;
+        text-align: center;
+        color: #b28af8;
+    }
+    .firstpict {
+        position: absolute;
+        width: 128px;
+        height: 108px;
+        margin-top: 300px;
+        margin-left: -120px;
+    }
+    .group468 {
+        border: 2px solid red;
+        position: absolute;
+        width: 353px;
+        height: 542px;
+    }
+    .footase2 {
+        position: absolute;
+        position: absolute;
+        width: 123px;
+        height: 138px;
+        margin-left: 106px;
+    }
+    .like {
+        position: absolute;
+        width: 223px;
+        height: 67px;
+
+        font-family: "Poppins";
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .asaa {
+        position: absolute;
+        width: 352px;
+        height: 73px;
+        margin-left: -30px;
+        font-family: "Roboto";
+        font-size: 14px;
+        font-weight: normal;
+        letter-spacing: 1px;
+        line-height: 24px;
+        font-style: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    input {
+        margin-top: 179px;
+        position: absolute;
+        width: 352px;
+        height: 163px;
+
+        font-family: "Roboto";
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 24px;
+        font-style: normal;
+        text-align: center;
+
+        color: #ffffff;
+    }
+    .sub {
+        position: absolute;
+        width: 295px;
+        height: 60px;
+        margin-top: 280px;
+        border-radius: 40px;
+        margin-left: 20px;
+        background: #ffffff;
+    }
+    .subs {
+        position: absolute;
+        width: 91px;
+        height: 24px;
+        margin-top: 19px;
+        margin-left: 103px;
+        font-family: "Poppins";
+        font-size: 16px;
+        font-weight: 500;
+        font-style: normal;
+        text-align: center;
+        color: #b28af8;
+    }
+    .group465 {
+        margin-top: 178px;
+        margin-left: 57px;
+    }
+    .footas {
+        position: absolute;
+        width: 126px;
+        height: 98.4px;
+        margin-top: 100px;
+        margin-left: 400px;
+        margin-top: 704px;
+    }
+
+    .geologo {
+        margin-left: 20px;
+        margin-top: 120px;
+    }
+    .proin {
+        margin-top: 200px;
+        margin-left: 20px;
+    }
+    .footcomp {
+        margin-top: 345px;
+        margin-left: 20px;
+    }
+    .footcomp2 {
+        margin-top: 345px;
+        margin-left: 199px;
+    }
+    .footconta {
+        margin-top: 574px;
+        margin-left: 20px;
+    }
+    .Line {
+        margin-top: 1435px;
+    }
+    .icons {
+        margin-left: 185px;
+        margin-top: 1475px;
+    }
+    .footend {
+        margin-top: 1537px;
+        margin-left: 185px;
     }
 }
