@@ -18,6 +18,12 @@ header {
     width: 1970px;
     display: flex;
 }
+
+.fa-solid {
+    display: none;
+    font-size: 36px;
+}
+
 .logo {
     position: absolute;
     width: 55px;
@@ -984,8 +990,6 @@ input {
     color: #ffffff;
 }
 .foot {
-    
-    
     display: flex;
     flex-direction: row;
 }
