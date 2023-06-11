@@ -54,7 +54,6 @@
     .group478 {
         display: flex;
 
-        border: 2px solid red;
         width: 90%;
         width: 1200px;
     }
@@ -121,7 +120,6 @@
     .group478 {
         display: flex;
 
-        border: 2px solid red;
         width: 90%;
         width: 1000px;
         font-size: 10px;
@@ -144,16 +142,13 @@
     .navbar {
         width: 90%;
     }
-    .fa-solid {
-        display: block;
-       
-        cursor: pointer;
-    }
+
     header {
         height: 2000px;
     }
-    .container-2 {
-        display: none;
+    .container-2 ul {
+        font-size: 15px;
+        width: 600px;
     }
 
     .asso1 {
@@ -183,7 +178,8 @@
         width: 90%;
         width: 300px;
         height: 200px;
-        margin-left: 300px;
+        margin-top: 200px;
+        margin-left: 200px;
     }
     .group465 {
         width: 90%;
@@ -192,33 +188,58 @@
     }
     .footimg {
         width: 90%;
-        width: 300px;
-        height: 300px;
+        width: 400px;
+        height: 400px;
+        margin-left: -120px;
     }
     .footas {
-        width: 250px;
+        width: 150px;
         height: 100px;
         margin-left: 900px;
     }
     .group478 {
-        display: flex;
-
-        border: 2px solid red;
+        height: 300px;
         width: 90%;
-        width: 1000px;
         font-size: 10px;
     }
     .footconta {
-        margin-left: 700px;
+        margin-left: 500px;
+
         font-size: 15px;
     }
     .footcomp {
-        margin-left: 400px;
+        margin-left: 390px;
+        margin-top: 150px;
+    }
+    .footcomp2 {
+        margin-top: 150px;
+    }
+    .geologo {
+        margin-top: -10px;
+        margin-left: 5px;
     }
     .proin {
-        font-size: 15px;
+        font-size: 20px;
     }
     .footcomp2 {
         margin-left: 600px;
+    }
+    .Line {
+        margin-top: 960px;
+        width: 500px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    header {
+        width: 100%;
+        color: black;
+    }
+    section {
+        width: 100%;
+    }
+    .asseto {
+        position: absolute;
+        width: 335px;
+        height: 241px;
     }
 }
