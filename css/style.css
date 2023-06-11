@@ -864,7 +864,7 @@ input {
     width: 380px;
     height: 170px;
     margin-top: 41px;
-    margin-left: 140px;  
+    margin-left: 140px;
 }
 .k16 {
     position: absolute;
@@ -897,7 +897,7 @@ input {
     width: 0px;
     height: 66px;
     margin-top: 93px;
-     margin-left: 576px; 
+    margin-left: 576px;
     border-color: #c4a3fd;
     border-width: 2px;
     border-style: solid;
@@ -907,7 +907,7 @@ input {
     width: 380px;
     height: 170px;
 
-     margin-left: 630px; 
+    margin-left: 630px;
     margin-top: 41px;
 }
 
@@ -944,7 +944,7 @@ input {
     height: 66px;
     margin-top: 93px;
 
-    margin-left: 1066px; 
+    margin-left: 1066px;
     border-color: #c4a3fd;
     border-width: 2px;
     border-style: solid;
@@ -952,7 +952,7 @@ input {
 .group24 {
     position: absolute;
     margin-top: 41px;
-    margin-left: 1120px; 
+    margin-left: 1120px;
     width: 380px;
     height: 170px;
 }
@@ -1004,8 +1004,9 @@ input {
     width: 100%;
 }
 .service {
+    margin-left: 0;
     background-color: #956ae1;
-    height: 100%;
+    height: 1000px;
     width: 100%;
 }
 .serviscont {
@@ -1044,8 +1045,14 @@ input {
     text-align: center;
     color: #ffffff;
 }
+.bigserv {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    width: 1606px;
+    height: 500px;
+}
 .service1 {
-    margin-top: 150px;
     position: absolute;
     width: 800px;
     height: 250px;
@@ -1055,7 +1062,6 @@ input {
     background: #b28af8;
 }
 .service2 {
-    margin-top: 150px;
     margin-left: 840px;
     position: absolute;
     width: 800px;
@@ -1066,7 +1072,7 @@ input {
     background: #b28af8;
 }
 .service3 {
-    margin-top: 440px;
+    margin-top: 280px;
     position: absolute;
     width: 800px;
     height: 250px;
@@ -1076,7 +1082,7 @@ input {
     background: #b28af8;
 }
 .service4 {
-    margin-top: 440px;
+    margin-top: 280px;
     margin-left: 840px;
     position: absolute;
     width: 800px;
@@ -1171,6 +1177,7 @@ input {
 
     color: #ffffff;
 }
+
 .shapeserv {
     margin-top: 670px;
     margin-left: 1700px;

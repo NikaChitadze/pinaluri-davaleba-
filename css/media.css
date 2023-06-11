@@ -633,7 +633,6 @@
     }
 
     .footik {
-       
         margin-top: 2500px;
     }
     .marginleft {
@@ -698,5 +697,182 @@
         height: 132px;
         margin-top: 504px;
         margin-left: -10px;
+    }
+}
+/* END ABOUT US */
+/* END ABOUT US */
+/* END ABOUT US */
+
+/* START SERVICE */
+/* START SERVICE */
+/* START SERVICE */
+@media only screen and (max-width: 1600px) {
+    .service {
+        width: 90%;
+    }
+    .service1 {
+        position: absolute;
+        width: 284px;
+        height: 419px;
+        margin-top: 10px;
+        border-radius: 30px;
+
+        background: #b28af8;
+    }
+    .group54 {
+        margin-left: 30px;
+        margin-top: 30px;
+        position: absolute;
+        width: 120px;
+        height: 120px;
+    }
+    .linkb {
+        position: absolute;
+        width: 147px;
+        height: 29px;
+
+        font-family: "Poppins";
+        font-size: 20px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    .well {
+        position: absolute;
+        width: 236px;
+        height: 101px;
+
+        font-family: "Roboto";
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 26px;
+        font-style: normal;
+        text-align: left;
+        color: #ffffff;
+    }
+    .plius {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+
+        border-top-left-radius: 30px;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 0px;
+        margin-top: 339px;
+        margin-left: 204px;
+        background: #956ae1;
+    }
+    .group30 {
+        margin-top: 170px;
+        margin-left: 30px;
+    }
+    .service2 {
+        position: absolute;
+        width: 284px;
+        height: 419px;
+        margin-top: 10px;
+        margin-left: 900px;
+        border-radius: 30px;
+
+        background: #b28af8;
+    }
+    .service3 {
+        position: absolute;
+        width: 284px;
+        height: 419px;
+        margin-top: 10px;
+        margin-left: 300px;
+        border-radius: 30px;
+
+        background: #b28af8;
+    }
+    .service4 {
+        position: absolute;
+        width: 284px;
+        height: 419px;
+        margin-top: 10px;
+        margin-left: 600px;
+        border-radius: 30px;
+
+        background: #b28af8;
+    }
+    .bigserv {
+        width: 90%;
+        width: 1200px;
+    }
+    .shapeserv {
+        margin-left: 300px;
+    }
+    .serviceshrift {
+        margin-left: 150px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .service {
+        width: 1200px;
+    }
+    .bigserv {
+        width: 900px;
+        margin-left: -50px;
+    }
+    .serviceshrift {
+        margin-left: -50px;
+    }
+    .service2 {
+        display: none;
+    }
+    .footservice {
+        margin-left: -50px;
+        width: 1200px;
+        margin-top: 1000px;
+        height: 1500px;
+    }
+    .serviceh {
+        margin: 0 auto;
+        width: 1200px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .serviceh {
+        width: 800px;
+        margin: 0 auto;
+    }
+    .service {
+        width: 800px;
+        margin-left: 0px;
+    }
+    .footservice {
+        width: 800px;
+    }
+    .footservice {
+        margin-left: -5px;
+    }
+    .service4 {
+        display: none;
+    }
+    .bigserv {
+        margin-left: 50px;
+        width: 600px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .serviceh {
+        width: 1200px;
+        margin-left: -50px;
+    }
+    .service {
+        width: 1200px;
+    }
+    .footservice {
+        width: 1200px;
+    }
+
+    .bigshape {
+        position: absolute;
+        width: 256px;
+        height: 315px;
     }
 }
