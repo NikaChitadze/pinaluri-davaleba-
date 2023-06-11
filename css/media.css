@@ -347,7 +347,6 @@
         margin-left: -120px;
     }
     .group468 {
-        border: 2px solid red;
         position: absolute;
         width: 353px;
         height: 542px;
@@ -465,5 +464,239 @@
     .footend {
         margin-top: 1537px;
         margin-left: 185px;
+    }
+}
+/* END HOME */
+/* END HOME */
+/* END HOME */
+
+/* START ABOUTUS */
+/* START ABOUTUS */
+/* START ABOUTUS */
+@media only screen and (max-width: 1800px) {
+    .Clients {
+        width: 90%;
+    }
+
+    .group20 {
+        margin-left: 300px;
+        width: 700px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .group13 {
+        display: flex;
+        width: 500px;
+        justify-content: space-around;
+    }
+    .namesilo2 {
+        display: none;
+    }
+    .namesilo3 {
+        display: none;
+    }
+    .pc {
+        width: 600px;
+        height: 500px;
+        margin-left: 160px;
+    }
+    .line1 {
+        display: none;
+    }
+    .group8 {
+        height: 550px;
+        margin-top: 600px;
+        margin-left: 260px;
+    }
+    .group21 {
+        width: 800px;
+        margin-left: 250px;
+    }
+    .group28 {
+        margin-left: -300px;
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .group28 {
+        width: 1400px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .group22 {
+        margin-left: 50px;
+    }
+    .line3 {
+        margin-left: 486px;
+    }
+    .group23 {
+        margin-left: 540px;
+    }
+    .line2 {
+        margin-left: 976px;
+    }
+    .group24 {
+        margin-left: 1030px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    header {
+        margin-left: -50px;
+        width: 1200px;
+    }
+    .Clients {
+        margin-left: -100px;
+    }
+    .group20 {
+        width: 700px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .group13 {
+        display: flex;
+        width: 500px;
+        justify-content: space-around;
+    }
+    .namesilo2 {
+        display: none;
+    }
+    .namesilo3 {
+        display: none;
+    }
+    .pc {
+        width: 600px;
+        height: 500px;
+        margin-left: 160px;
+    }
+    .line1 {
+        display: none;
+    }
+    .group8 {
+        height: 550px;
+        margin-top: 600px;
+        margin-left: 260px;
+    }
+    .group21 {
+        width: 800px;
+        margin-left: 250px;
+    }
+    .group28 {
+        height: 200px;
+        width: 1000px;
+        margin-left: 100px;
+    }
+    .group22 {
+        width: 300px;
+        height: 150px;
+        margin-left: 50px;
+    }
+    .cli {
+        margin-top: 120px;
+    }
+    .line3 {
+        margin-left: 400px;
+    }
+    .group23 {
+        margin-left: 420px;
+    }
+    .line2 {
+        margin-left: 770px;
+    }
+    .group24 {
+        margin-left: 700px;
+    }
+    .footik {
+        margin-left: -50px;
+        width: 1200px;
+        height: 1600px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .about {
+        width: 500px;
+        height: 100%;
+        background-color: #b28af8;
+    }
+    .namesilo4 {
+        display: none;
+    }
+    .pc {
+        margin-left: 450px;
+    }
+    .pc1 {
+        position: absolute;
+        width: 400px;
+        height: 380.2px;
+    }
+    .group8 {
+        margin-left: 450px;
+    }
+
+    .footik {
+       
+        margin-top: 2500px;
+    }
+    .marginleft {
+        margin-left: 150px;
+        margin-top: -150px;
+    }
+    .group28 {
+        position: absolute;
+        width: 334px;
+        height: 715px;
+        margin-left: 421px;
+        border-color: #cfb3ff;
+        border-width: 1px;
+        border-style: solid;
+        border-radius: 139px;
+    }
+
+    .group22 {
+        position: absolute;
+        width: 147px;
+        height: 132px;
+        margin-top: 80px;
+        margin-left: -20px;
+    }
+    .numbers {
+        width: 1250px;
+        background-color: #b28af8;
+        height: 1000px;
+    }
+    .line3 {
+        position: absolute;
+        width: 66px;
+        height: 0px;
+
+        border-color: #c4a3fd;
+        border-width: 2px;
+        border-style: solid;
+        margin-top: 252px;
+        margin-left: 135px;
+    }
+    .group23 {
+        margin-top: 292px;
+        margin-left: -10px;
+        position: absolute;
+        width: 194px;
+        height: 132px;
+    }
+    .line2 {
+        margin-top: 464px;
+        margin-left: 135px;
+        position: absolute;
+        width: 66px;
+        height: 0px;
+
+        border-color: #c4a3fd;
+        border-width: 2px;
+        border-style: solid;
+    }
+    .group24 {
+        position: absolute;
+        width: 144px;
+        height: 132px;
+        margin-top: 504px;
+        margin-left: -10px;
     }
 }
