@@ -922,15 +922,90 @@
     .group400 {
         margin-left: 200px;
     }
-    .post2{
+    .post2 {
         display: none;
     }
     .group462 {
-        width:380px;
+        width: 380px;
         margin-left: 200px;
-
     }
     .group450 {
         margin-left: 150px;
+    }
+}
+/* END BLOG */
+/* END BLOG */
+/* END BLOG */
+
+/* START PORTFOLIO */
+/* START PORTFOLIO */
+/* START PORTFOLIO */
+@media only screen and (max-width: 1800px) {
+    .group458 {
+        width: 1260px;
+    }
+    }
+    .projectport4 {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .projectport3 {
+        display: none;
+    }
+    .group458 {
+        width: 840px;
+    }
+    .group21 {
+        margin-left: 50px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .projectport2 {
+        display: none;
+    }
+    .group458 {
+        margin-left: 200px;
+        width: 420px;
+    }
+    .group21 {
+        margin-left: 250px;
+        width: 90%;
+        position: absolute;
+        width: 251px;
+        height: 94px;
+    }
+    .aweport {
+        margin-left: 60px;
+        position: absolute;
+        width: 134px;
+        height: 18px;
+        font-family: "Roboto";
+        font-size: 14px;
+        font-weight: normal;
+        line-height: 24px;
+        font-style: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+    .greatport {
+        position: absolute;
+        width: 251px;
+        height: 67px;
+
+        font-family: "Poppins";
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+        color: #ffffff;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .group458 {
+        margin-left: 0px;
+    }
+    .group21 {
+        margin-left: 70px;
     }
 }
